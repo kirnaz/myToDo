@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../e-shop"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mytodo",
+		"liveServer.settings.port": 5501
+	}
+}
